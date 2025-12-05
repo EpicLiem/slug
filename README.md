@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://slug.vercel.app">
+  <a href="https://url.epicliem.com">
     <img
       src="https://raw.githubusercontent.com/pheralb/slug/refs/heads/main/public/images/logo_svg.svg"
       alt="Slug Logo"
@@ -13,7 +13,7 @@
     </b>
   </p>
 
-<a href="https://slug.vercel.app/dashboard">Dashboard</a>
+<a href="https://url.epicliem.com/dashboard">Dashboard</a>
 <span>&nbsp;&nbsp;❖&nbsp;&nbsp;</span>
 <a href="#-roadmap">Roadmap</a>
 <span>&nbsp;&nbsp;❖&nbsp;&nbsp;</span>
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/pheralb_">X/Twitter</a>
 
 <div align="center">
-<a href="https://slug.vercel.app">
+<a href="https://url.epicliem.com">
 <img src="public/images/screenshot_png.png">
 </a>
 <p></p>
@@ -42,7 +42,7 @@
 
 ## 👨‍🚀 Introduction
 
-[**Slug**](slug.vercel.app) is a service that offers to shorten urls in a simple, fast and secure way. It's built with [**T3 Stack**](https://create.t3.gg/), a web development stack made by [**Theo**](https://twitter.com/t3dotgg) focused on simplicity, modularity, and full-stack **typesafety**.
+[**Slug**](url.epicliem.com) is a service that offers to shorten urls in a simple, fast and secure way. It's built with [**T3 Stack**](https://create.t3.gg/), a web development stack made by [**Theo**](https://twitter.com/t3dotgg) focused on simplicity, modularity, and full-stack **typesafety**.
 
 This project uses the following technologies:
 
@@ -222,7 +222,7 @@ This is the roadmap I will be following for the complete migration to v3:
 
 ## ☁️ Deploy on Vercel
 
-- ✅ [slug.vercel.app](https://slug.vercel.app/).
+- ✅ [url.epicliem.com](https://url.epicliem.com/).
 
 ## 🔑 License
 
